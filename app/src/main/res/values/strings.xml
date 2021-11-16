@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">MyFirstAndroidApplication</string>
+    <string name="app_name">Моё первое андроид приложение</string>
+    <string name="first_app_text">Домашка №1</string>
+    <string name="change_color_button">Сменить цвет кнопки</string>\
+    <string name="button_text">Нажми на меня</string>
+    <string name="edited_text">Замени меня!</string>
+    <string name="accept_text">Принять условия пользовательского соглашения</string>
+    <!-- hints -->
+    <string name="edit_text">Введите текст</string>
+    <string name="toggle_on">Включено</string>
+    <string name="toggle_off">Выключено</string>
 </resources>
