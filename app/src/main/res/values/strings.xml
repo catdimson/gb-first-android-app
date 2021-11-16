@@ -9,4 +9,11 @@
     <string name="edit_text">Введите текст</string>
     <string name="toggle_on">Включено</string>
     <string name="toggle_off">Выключено</string>
+    <string name="hint_text">text</string>
+    <string name="hint_name">Имя</string>
+    <string name="hint_phone">Телефон</string>
+    <string name="hint_numbers">Только числа</string>
+    <string name="hint_password">Пароль</string>
+    <string name="hint_email">Эл. почта</string>
+    <string name="layout2_header">Набор полей ввода</string>
 </resources>
